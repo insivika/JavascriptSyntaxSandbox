@@ -23,6 +23,7 @@ func(1,2,3)
 
 ## Object.keys()
 Object.keys() will take the key of your object and place it into an array in accordance to the order of the object keys.
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
 
 **Example**
 ```
